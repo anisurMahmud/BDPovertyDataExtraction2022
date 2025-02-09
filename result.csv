@@ -1,0 +1,608 @@
+Division,District,Name,Population20,Quintile,HCR Upper (%),Standard Error (%)
+Barishal Division,Barguna District,Amtali,211015,Low ,14.9,5
+Barishal Division,Barguna District,Bamna,77419,Moderate ,20.2,10.5
+Barishal Division,Barguna District,Barguna Sadar,288426,Moderate ,18.6,3
+Barishal Division,Barguna District,Betagi,124379,High ,22.3,10.2
+Barishal Division,Barguna District,Patharghata,175873,High ,23.5,2.2
+Barishal Division,Barguna District,Taltali,115609,High ,23.3,9.6
+Barishal Division,Barishal District,Agailjhara,153523,High ,24.9,4.7
+Barishal Division,Barishal District,Babuganj,150640,Low ,13.7,5
+Barishal Division,Barishal District,Bakerganj,346151,High ,27.1,3.4
+Barishal Division,Barishal District,Banaripara,167200,Very High ,38.4,4.1
+Barishal Division,Barishal District,Gaurnadi,202870,Very High ,33.3,4
+Barishal Division,Barishal District,Hijla,148102,Very High ,35.7,13.3
+Barishal Division,Barishal District,Barishal Sadar,617993,Moderate ,18.5,1.4
+Barishal Division,Barishal District,Mehendiganj,280553,Moderate ,19.2,3.8
+Barishal Division,Barishal District,Muladi,178483,Very High ,31.2,5.4
+Barishal Division,Barishal District,Ujirpur,251110,Very High ,32.2,3.7
+Barishal Division,Bhola District,Bhola Sadar,434440,Moderate ,20.7,3.3
+Barishal Division,Bhola District,Borhanuddin,261842,Very High ,44.2,5.1
+Barishal Division,Bhola District,Charfasson,514341,Moderate ,19.8,3.3
+Barishal Division,Bhola District,Daulatkhan,180248,Very High ,39.4,5
+Barishal Division,Bhola District,Lalmohan,292169,High ,23.5,5.7
+Barishal Division,Bhola District,Monpura,88973,High ,27.6,6.1
+Barishal Division,Bhola District,Tazumuddin,132345,Very High ,32.3,8.2
+Barishal Division,Jhalokati District,Jhalokati Sadar,209894,High ,21.9,3.4
+Barishal Division,Jhalokati District,Kanthalia,110496,Very High ,31.2,5.4
+Barishal Division,Jhalokati District,Nalchhity,184777,Very High ,53.8,4.1
+Barishal Division,Jhalokati District,Rajapur,142000,High ,26,5.2
+Barishal Division,Patuakhali District,Bauphal,322609,Very High ,35.5,4.3
+Barishal Division,Patuakhali District,Dashmina,128549,Moderate ,20.4,3.8
+Barishal Division,Patuakhali District,Dumki,78579,Moderate ,18.8,3.4
+Barishal Division,Patuakhali District,Galachipa,295095,Very High ,28.5,3.9
+Barishal Division,Patuakhali District,Kalapara,277035,Very Low ,7.7,2.6
+Barishal Division,Patuakhali District,Mirzaganj,124976,Moderate ,17.1,3.4
+Barishal Division,Patuakhali District,Patuakhali Sadar,343505,Low ,14,2.4
+Barishal Division,Patuakhali District,Rangabali,117102,Moderate ,17.5,4.1
+Barishal Division,Pirojpur District,Bhandaria,160364,Very High ,30.1,4.2
+Barishal Division,Pirojpur District,Pirojpur Sadar,69085,Very High ,41.4,14.3
+Barishal Division,Pirojpur District,Mathbaria,272481,Very High ,39.2,5.3
+Barishal Division,Pirojpur District,Nazirpur,185143,Very High ,33.4,5.7
+Barishal Division,Pirojpur District,Pirojpur Sadar,176647,Very High ,47.7,3.8
+Barishal Division,Pirojpur District,"Nesarabad
+(Swarupkathi)",224752,Very High ,36.6,5.8
+Barishal Division,Pirojpur District,Indurkani,83367,Very High ,38.9,6.2
+Chattogram Division,Bandarban District,Alikadam,59162,High ,27.7,13.9
+Chattogram Division,Bandarban District,Bandarban Sadar,100447,Moderate ,18.3,6.6
+Chattogram Division,Bandarban District,Lama,133515,High ,23.7,15.2
+Chattogram Division,Bandarban District,Naikkhongchhari,74509,Very High ,30.8,4.2
+Chattogram Division,Bandarban District,Rowangchhari,26069,High ,23.4,14.9
+Chattogram Division,Bandarban District,Ruma,30065,Very High ,28.7,13.7
+Chattogram Division,Bandarban District,Thanchi,26925,Very High ,32.8,15.6
+Chattogram Division,Brahmanbaria District,Akhaura,164102,Moderate ,16.8,9
+Chattogram Division,Brahmanbaria District,Banchharampur,327327,Very Low ,3.6,2.9
+Chattogram Division,Brahmanbaria District,Bijoynagar,286164,Moderate ,19.7,14.7
+Chattogram Division,Brahmanbaria District,"Brahmanbaria
+Sadar",645099,Low ,13.8,3
+Chattogram Division,Brahmanbaria District,Ashuganj,203505,Moderate ,17.3,9.6
+Chattogram Division,Brahmanbaria District,Kasba,352248,Low ,13.9,10.1
+Chattogram Division,Brahmanbaria District,Nabinagar,546739,High ,26.1,3.8
+Chattogram Division,Brahmanbaria District,Nasirnagar,344111,Very High ,45.9,6
+Chattogram Division,Brahmanbaria District,Sarail,358607,High ,22.7,13.7
+Chattogram Division,Chandpur District,Chandpur Sadar,516696,Very High ,34,2.2
+Chattogram Division,Chandpur District,Faridganj,426082,Low ,14,3.6
+Chattogram Division,Chandpur District,Haimchar,123584,Very High ,36.5,4.6
+Chattogram Division,Chandpur District,Hajiganj,351981,High ,24,14.9
+Chattogram Division,Chandpur District,Kachua,396813,Very Low ,7.6,4.3
+Chattogram Division,Chandpur District,Matlab Dakkhin,221770,High ,25.2,11.9
+Chattogram Division,Chandpur District,Matlab Uttar,292872,Very High ,40.7,4.7
+Chattogram Division,Chandpur District,Shahrasti,250930,High ,26,14.7
+Chattogram Division,Chattogram District,Akbarshah,146436,Low ,12.7,1.7
+Chattogram Division,Chattogram District,Anwara,311458,Very High ,34.3,4.4
+Chattogram Division,Chattogram District,Bayejid Bostami,373753,Very Low ,8.9,3.1
+Chattogram Division,Chattogram District,Banshkhali,526717,High ,21.4,5.3
+Chattogram Division,Chattogram District,Bakalia,218922,Low ,12.7,3.1
+Chattogram Division,Chattogram District,Boalkhali,253856,Low ,11.5,5.3
+Chattogram Division,Chattogram District,Chalk Bazar,107160,Very Low ,2.5,1.3
+Chattogram Division,Chattogram District,Chandanaish,246282,Low ,13.3,7.7
+Chattogram Division,Chattogram District,Chandgaon,297492,Very Low ,8,1.5
+Chattogram Division,Chattogram District,Chattogram Port,166861,Very Low ,6.7,1.4
+Chattogram Division,Chattogram District,Double Mooring,236454,Very Low ,1.1,1.6
+Chattogram Division,Chattogram District,EPZ,237441,Very Low ,2.6,1.1
+Chattogram Division,Chattogram District,Fatikchhari,621041,Moderate ,17.3,9.2
+Chattogram Division,Chattogram District,Halishahar,223012,Very Low ,6,1.5
+Chattogram Division,Chattogram District,Hathazari,470083,Low ,13.6,2.4
+Chattogram Division,Chattogram District,Karnaphuli,198192,Moderate ,15.4,6.8
+Chattogram Division,Chattogram District,Kotwali,206959,Very Low ,6.7,1.4
+Chattogram Division,Chattogram District,Khulshi,193239,Very Low ,5.8,2.1
+Chattogram Division,Chattogram District,Lohagara,318359,Low ,13.2,3.5
+Chattogram Division,Chattogram District,Mirsarai,458898,High ,25,3.9
+Chattogram Division,Chattogram District,Pahartali,184488,Very Low ,8.4,2.3
+Chattogram Division,Chattogram District,Panchlaish,199014,Very Low ,1.6,1.9
+Chattogram Division,Chattogram District,Patiya,387531,Low ,12.5,3
+Chattogram Division,Chattogram District,Patenga,155542,Very Low ,4.3,1.8
+Chattogram Division,Chattogram District,Rangunia,382940,Very Low ,4.1,3.1
+Chattogram Division,Chattogram District,Raozan,383740,Low ,9.8,5.3
+Chattogram Division,Chattogram District,Sadarghat,102931,Very Low ,3.7,2.1
+Chattogram Division,Chattogram District,Sandwip,324425,Low ,10.8,3.5
+Chattogram Division,Chattogram District,Satkania,440129,Low ,14.1,7.3
+Chattogram Division,Chattogram District,Sitakunda,439732,Very Low ,5.3,3
+Chattogram Division,Cumilla District,Barura,443946,Very High ,28.4,3.7
+Chattogram Division,Cumilla District,Brahmanpara,228514,Moderate ,15.9,10.1
+Chattogram Division,Cumilla District,Burichang,339299,High ,21.5,3.5
+Chattogram Division,Cumilla District,Chandina,387382,Moderate ,15.2,11
+Chattogram Division,Cumilla District,Chauddagram,492696,Low ,12.3,3.4
+Chattogram Division,Cumilla District,Sadar Dakkhin,319134,Very Low ,6,2.4
+Chattogram Division,Cumilla District,Daudkandi,386757,Low ,14.8,10.4
+Chattogram Division,Cumilla District,Debidwar,459951,Very Low ,6.1,2.8
+Chattogram Division,Cumilla District,Homna,222303,Moderate ,18.1,10.6
+Chattogram Division,Cumilla District,Adarsha Sadar,629199,Very Low ,7,1.8
+Chattogram Division,Cumilla District,Laksam,324287,Moderate ,16.3,12
+Chattogram Division,Cumilla District,Lalmai,211912,Low ,10.3,2.9
+Chattogram Division,Cumilla District,Manoharganj,270903,Moderate ,16.1,10.9
+Chattogram Division,Cumilla District,Meghna,116211,Moderate ,17.5,13.6
+Chattogram Division,Cumilla District,Muradnagar,565030,Very Low ,9.3,3.9
+Chattogram Division,Cumilla District,Nangalkot,420035,Low ,10.1,3.3
+Chattogram Division,Cumilla District,Titas,199621,Moderate ,15.4,12.9
+Chattogram Division,Cox's Bazar District,Chakaria,557613,Very High ,43.3,4.2
+Chattogram Division,Cox's Bazar District,Cox's Bazar Sadar,389067,Low ,10.3,4.6
+Chattogram Division,Cox's Bazar District,Eidgaon,146687,Low ,11.7,5.1
+Chattogram Division,Cox's Bazar District,Kutubdia,142012,Very High ,31.9,13.5
+Chattogram Division,Cox's Bazar District,Maheshkhali,381522,Very High ,32.7,15.8
+Chattogram Division,Cox's Bazar District,Pekua,210325,High ,25.5,4.9
+Chattogram Division,Cox's Bazar District,Ramu,326071,Very High ,30.3,15.8
+Chattogram Division,Cox's Bazar District,Teknaf,328551,High ,21.2,5.6
+Chattogram Division,Cox's Bazar District,Ukhia,258313,High ,27.4,16.9
+Chattogram Division,Feni District,Chhagalnaiya,201576,Very Low ,8,5.2
+Chattogram Division,Feni District,Daganbhuiyan,271383,Low ,11.7,2.2
+Chattogram Division,Feni District,Feni Sadar,599797,Very Low ,9.4,5.6
+Chattogram Division,Feni District,Fulgazi,121600,Very Low ,4.1,3.1
+Chattogram Division,Feni District,Parashuram,110357,Low ,11.3,7.4
+Chattogram Division,Feni District,Sonagazi,285071,Moderate ,15.6,10.3
+Chattogram Division,Khagrachhari District,Dighinala,111170,Moderate ,17.9,10.5
+Chattogram Division,Khagrachhari District,Guimara,51700,Low ,12.9,7.1
+Chattogram Division,Khagrachhari District,Khagrachhari Sadar,129429,Low ,12.9,6
+Chattogram Division,Khagrachhari District,Lakkhichhari,26394,Moderate ,20.5,13.6
+Chattogram Division,Khagrachhari District,Mahalchhari,47695,Moderate ,16.6,10.1
+Chattogram Division,Khagrachhari District,Manikchhari,74971,Moderate ,15,7.9
+Chattogram Division,Khagrachhari District,Matiranga,123878,Moderate ,19.4,11.9
+Chattogram Division,Khagrachhari District,Panchhari,67200,Low ,14.1,8.3
+Chattogram Division,Khagrachhari District,Ramgarh,58367,Low ,14.7,6.7
+Chattogram Division,Lakshmipur District,Kamalnagar,213870,High ,22.7,15
+Chattogram Division,Lakshmipur District,Lakshmipur Sadar,792380,Low ,10,2.3
+Chattogram Division,Lakshmipur District,Raipur,307672,Low ,14.4,7
+Chattogram Division,Lakshmipur District,Ramganj,305344,Moderate ,17,2.8
+Chattogram Division,Lakshmipur District,Ramgati,275294,High ,25.9,15.1
+Chattogram Division,Noakhali District,Begumganj,590796,Very Low ,2.5,1.4
+Chattogram Division,Noakhali District,Chatkhil,252207,Very Low ,3.6,3.5
+Chattogram Division,Noakhali District,Companiganj,296351,Low ,13.8,2.1
+Chattogram Division,Noakhali District,Hatiya,532493,Very Low ,3.9,5.3
+Chattogram Division,Noakhali District,Kabirhat,236512,Very Low ,7.2,5.7
+Chattogram Division,Noakhali District,Senbag,305673,Very Low ,4.3,5.8
+Chattogram Division,Noakhali District,Sonaimuri,357940,Very Low ,6.1,1.6
+Chattogram Division,Noakhali District,Subarnachar,352355,Low ,14.2,11.4
+Chattogram Division,Noakhali District,Noakhali Sadar,617373,Very Low ,4.8,2.1
+Chattogram Division,Rangamati District,Baghaichhari,102413,Moderate ,16.6,9.2
+Chattogram Division,Rangamati District,Barkal,47544,Moderate ,15.3,11.5
+Chattogram Division,Rangamati District,Kawkhali,63366,Low ,12.5,3.6
+Chattogram Division,Rangamati District,Belaichhari,27773,High ,26.3,12.2
+Chattogram Division,Rangamati District,Kaptai,51897,Moderate ,16.4,7.3
+Chattogram Division,Rangamati District,Jurachhari,25942,Moderate ,15.6,11.9
+Chattogram Division,Rangamati District,Langadu,88254,Low ,12.5,13.9
+Chattogram Division,Rangamati District,Naniarchar,47947,Low ,12.9,10.2
+Chattogram Division,Rangamati District,Rajasthali,25927,Very Low ,9.5,8.8
+Chattogram Division,Rangamati District,Rangamati Sadar,135027,Low ,12.4,3.3
+Dhaka Division,Dhaka District,Adabar,198174,Low ,9.8,2
+Dhaka Division,Dhaka District,Badda,342175,Very Low ,7.4,1.9
+Dhaka Division,Dhaka District,Bangshal,141268,Very Low ,4.2,2.6
+Dhaka Division,Dhaka District,Bimanbandar,5787,Very Low ,1.4,1
+Dhaka Division,Dhaka District,Banani,155737,Low ,11.3,4.1
+Dhaka Division,Dhaka District,Cantonment,121394,Very Low ,2.9,1.4
+Dhaka Division,Dhaka District,Chawkbazar,103441,Very Low ,7.5,3.1
+Dhaka Division,Dhaka District,Dakkhinkhan,373870,Low ,9.8,1.7
+Dhaka Division,Dhaka District,Darussalam,193718,Low ,11,5
+Dhaka Division,Dhaka District,Demra,264541,Low ,13,2.3
+Dhaka Division,Dhaka District,Dhamrai,497575,Moderate ,18.3,3.4
+Dhaka Division,Dhaka District,Dhanmondi,86965,Very Low ,1.5,0.9
+Dhaka Division,Dhaka District,Dohar,242900,Moderate ,15.6,5.2
+Dhaka Division,Dhaka District,Bhasantek,113348,Moderate ,16.2,4.9
+Dhaka Division,Dhaka District,Bhatara,281518,Very Low ,4.5,2.3
+Dhaka Division,Dhaka District,Gendaria,126731,Very Low ,2.4,1.5
+Dhaka Division,Dhaka District,Gulshan,93066,Very Low ,3.2,2
+Dhaka Division,Dhaka District,Hatirjheel,72061,Very Low ,5.6,2.9
+Dhaka Division,Dhaka District,Hazaribag,187043,Very Low ,6.3,3.8
+Dhaka Division,Dhaka District,Jatrabari,452493,Very Low ,9.4,1.5
+Dhaka Division,Dhaka District,Kafrul,305702,Very Low ,7.2,3.3
+Dhaka Division,Dhaka District,Kadamtali,400295,Very Low ,8.3,1.8
+Dhaka Division,Dhaka District,Kalabagan,95247,Very Low ,3.4,1.7
+Dhaka Division,Dhaka District,Kamrangichar,352807,Moderate ,19.1,3.3
+Dhaka Division,Dhaka District,Khilgaon,358729,Very Low ,6.1,1.9
+Dhaka Division,Dhaka District,Khilkhet,157142,Very Low ,7.7,3.8
+Dhaka Division,Dhaka District,Keraniganj,953448,Very Low ,8.1,2.1
+Dhaka Division,Dhaka District,Kotwali,36413,Very Low ,2.9,1.9
+Dhaka Division,Dhaka District,Lalbag,168410,Very Low ,8.9,1.8
+Dhaka Division,Dhaka District,Mirpur,500942,Low ,12.6,1.5
+Dhaka Division,Dhaka District,Mohammadpur,469673,Very Low ,4.6,1.8
+Dhaka Division,Dhaka District,Motijheel,61101,Very Low ,3.6,2.2
+Dhaka Division,Dhaka District,Mugda,196074,Very Low ,6.7,4.1
+Dhaka Division,Dhaka District,Nawabganj,342963,Moderate ,18.3,3.1
+Dhaka Division,Dhaka District,Newmarket,39372,Very Low ,1.7,1
+Dhaka Division,Dhaka District,Pallabi,562094,Very Low ,6.6,1.6
+Dhaka Division,Dhaka District,Paltan,43063,Very Low ,1,1.1
+Dhaka Division,Dhaka District,Ramna,178049,Very Low ,4.4,1.3
+Dhaka Division,Dhaka District,Rampura,146398,Very Low ,6.3,2.5
+Dhaka Division,Dhaka District,Sabujbag,247294,Very Low ,5.1,2
+Dhaka Division,Dhaka District,Rupnagar,168599,Low ,11.3,4.8
+Dhaka Division,Dhaka District,Savar,2186852,Very Low ,7.6,1.1
+Dhaka Division,Dhaka District,Shahjahanpur,104866,Very Low ,3.6,2.2
+Dhaka Division,Dhaka District,Shah Ali,141522,Very Low ,8.2,2.7
+Dhaka Division,Dhaka District,Shahbag,31108,Very Low ,1.9,1.2
+Dhaka Division,Dhaka District,Shyampur,157327,Very Low ,9.4,4.4
+Dhaka Division,Dhaka District,"Sher-E-Bangla
+Nagar",131262,Very Low ,2.7,1.4
+Dhaka Division,Dhaka District,Sutrapur,70805,Very Low ,2.8,1.9
+Dhaka Division,Dhaka District,Tejgaon,101421,Very Low ,6.5,2.9
+Dhaka Division,Dhaka District,"Tejgaon Shilpa
+Elaka",84440,Low ,9.9,2.5
+Dhaka Division,Dhaka District,Turag,243751,Low ,11.7,6.6
+Dhaka Division,Dhaka District,Uttara Pashchim,159728,Very Low ,1.1,0.9
+Dhaka Division,Dhaka District,Uttara Purba,30309,Very Low ,2.7,1.3
+Dhaka Division,Dhaka District,Uttarkhan,121029,Very Low ,8.1,4.4
+Dhaka Division,Dhaka District,Wari,112309,Very Low ,3.3,1.2
+Dhaka Division,Faridpur District,Alfadanga,117076,High ,24.3,6.8
+Dhaka Division,Faridpur District,Bhanga,288007,Very High ,28.5,3.8
+Dhaka Division,Faridpur District,Boalmari,263237,High ,27.6,6.3
+Dhaka Division,Faridpur District,Char Bhadrasan,69039,High ,26.6,6.2
+Dhaka Division,Faridpur District,Faridpur Sadar,540415,High ,27,3.7
+Dhaka Division,Faridpur District,Madhukhali,228342,High ,24.4,6.6
+Dhaka Division,Faridpur District,Nagarkanda,217717,High ,26.8,8.7
+Dhaka Division,Faridpur District,Sadarpur,197185,High ,24.9,4
+Dhaka Division,Faridpur District,Saltha,182786,Very High ,31.2,9.3
+Dhaka Division,Gazipur District,Basan,248269,Very High ,30.9,8.9
+Dhaka Division,Gazipur District,Gachha,371985,Moderate ,15.5,4.5
+Dhaka Division,Gazipur District,Gazipur Sadar,326460,Low ,11.3,2.8
+Dhaka Division,Gazipur District,Kaliakair,670497,Moderate ,16,3.9
+Dhaka Division,Gazipur District,Kaliganj,300548,Moderate ,19.1,5.9
+Dhaka Division,Gazipur District,Kapasia,367153,Moderate ,19.4,4.6
+Dhaka Division,Gazipur District,Kashimpur,365270,Moderate ,20.9,6.2
+Dhaka Division,Gazipur District,Konabari,274149,Very High ,34.8,6.2
+Dhaka Division,Gazipur District,Pubail,101250,Very High ,31.1,5.7
+Dhaka Division,Gazipur District,Sreepur,807297,Moderate ,17.1,3.2
+Dhaka Division,Gazipur District,Tongi Pashchim,292180,Very High ,40.4,4.9
+Dhaka Division,Gazipur District,Tongi Purba,422338,Very High ,30,4.9
+Dhaka Division,Gazipur District,Joydebpur,435758,Very Low ,9.1,4.4
+Dhaka Division,Gopalganj District,Gopalganj Sadar,377396,High ,23.7,6.5
+Dhaka Division,Gopalganj District,Kashiani,222582,High ,27.4,3.4
+Dhaka Division,Gopalganj District,Kotalipara,239436,Very High ,29.2,8.2
+Dhaka Division,Gopalganj District,Muksudpur,301921,High ,24,4.4
+Dhaka Division,Gopalganj District,Tungipara,110388,High ,26.7,7.8
+Dhaka Division,Kishoreganj District,Austagram,150455,Very High ,40.8,10.9
+Dhaka Division,Kishoreganj District,Bajitpur,264987,Very High ,36.3,7.6
+Dhaka Division,Kishoreganj District,Bhairab,350749,Very High ,39.6,3.3
+Dhaka Division,Kishoreganj District,Hossainpur,199122,Very High ,28.4,7.1
+Dhaka Division,Kishoreganj District,Itna,167396,Very High ,45,9.9
+Dhaka Division,Kishoreganj District,Karimganj,323638,Very High ,41.7,5.1
+Dhaka Division,Kishoreganj District,Katiadi,346608,Very High ,31.6,7.2
+Dhaka Division,Kishoreganj District,Kishoreganj Sadar,485082,High ,26.4,4.2
+Dhaka Division,Kishoreganj District,Kuliarchar,198422,Very High ,33.5,7.4
+Dhaka Division,Kishoreganj District,Mithamain,123910,Very High ,47.4,8.7
+Dhaka Division,Kishoreganj District,Nikli,144400,Very High ,47.3,7.6
+Dhaka Division,Kishoreganj District,Pakundia,277847,High ,26.5,3.9
+Dhaka Division,Kishoreganj District,Tarail,168679,Very High ,36.6,8.4
+Dhaka Division,Madaripur District,Dasar,72243,Very High ,63.2,10.6
+Dhaka Division,Madaripur District,Kalkini,215564,Very High ,56.3,4.4
+Dhaka Division,Madaripur District,Madaripur Sadar,385852,Very High ,50,8
+Dhaka Division,Madaripur District,Rajoir,241539,Very High ,56,9
+Dhaka Division,Madaripur District,Shibchar,343864,Very High ,55.1,4.7
+Dhaka Division,Manikganj District,Daulatpur,166375,Very High ,31.4,8.6
+Dhaka Division,Manikganj District,Ghior,159852,Very High ,34.6,3.6
+Dhaka Division,Manikganj District,Harirampur,154342,High ,23.8,8.3
+Dhaka Division,Manikganj District,Manikganj Sadar,350775,Moderate ,20.9,6.2
+Dhaka Division,Manikganj District,Saturia,190219,Moderate ,17.6,3.6
+Dhaka Division,Manikganj District,Shibalay,185720,High ,25.6,8.2
+Dhaka Division,Manikganj District,Singair,319428,Low ,12.6,3.6
+Dhaka Division,Munshiganj District,Gazaria,175861,Very Low ,8,4.2
+Dhaka Division,Munshiganj District,Louhajang,171256,Low ,12.8,4.1
+Dhaka Division,Munshiganj District,Munshiganj Sadar,417880,Low ,14.2,3
+Dhaka Division,Munshiganj District,Sirajdikhan,305545,Low ,10.7,5.1
+Dhaka Division,Munshiganj District,Sreenagar,286464,Very Low ,9.1,3.5
+Dhaka Division,Munshiganj District,Tongibari,206772,Low ,11.1,2.2
+Dhaka Division,Narayanganj District,Araihazar,454760,Moderate ,19.1,5.8
+Dhaka Division,Narayanganj District,Sonargaon,522461,Low ,12.2,2.4
+Dhaka Division,Narayanganj District,Bandar,399643,Moderate ,17.1,4.6
+Dhaka Division,Narayanganj District,Narayanganj Sadar,1691248,Very Low ,8.9,1.6
+Dhaka Division,Narayanganj District,Rupganj,672723,Moderate ,21.1,2.2
+Dhaka Division,Narsingdi District,Belabo,211270,Very High ,49.5,11.2
+Dhaka Division,Narsingdi District,Manohardi,293145,Very High ,40.4,5.6
+Dhaka Division,Narsingdi District,Narsingdi Sadar,807445,Very High ,43.1,4.5
+Dhaka Division,Narsingdi District,Palash,237799,Very High ,38.3,7.7
+Dhaka Division,Narsingdi District,Raipura,602531,Very High ,47.6,4.5
+Dhaka Division,Narsingdi District,Shibpur,347500,Very High ,41.4,11.1
+Dhaka Division,Rajbari District,Baliakandi,226764,Very High ,40.8,4
+Dhaka Division,Rajbari District,Goalanda,127252,Very High ,32.3,10
+Dhaka Division,Rajbari District,Kalukhali,170266,High ,21.8,10.4
+Dhaka Division,Rajbari District,Pangsha,270222,High ,25.2,4.8
+Dhaka Division,Rajbari District,Rajbari Sadar,375169,High ,23,7.4
+Dhaka Division,Shariatpur District,Bhedarganj,275042,High ,21.7,4.7
+Dhaka Division,Shariatpur District,Damudya,121584,High ,22,9.6
+Dhaka Division,Shariatpur District,Gosairhat,172163,Very High ,31.9,9.6
+Dhaka Division,Shariatpur District,Naria,256101,High ,21.7,8.1
+Dhaka Division,Shariatpur District,Shariatpur Sadar,233540,Very High ,36.2,3.4
+Dhaka Division,Shariatpur District,Zajira,213016,Very High ,29.6,8.9
+Dhaka Division,Tangail District,Basail,187434,Low ,11.4,4
+Dhaka Division,Tangail District,Bhuanpur,214250,Very Low ,7.1,2.5
+Dhaka Division,Tangail District,Delduar,215610,Low ,11.8,4.2
+Dhaka Division,Tangail District,Dhanbari,185144,Low ,12.1,4.1
+Dhaka Division,Tangail District,Ghatail,442113,Low ,11.9,4.2
+Dhaka Division,Tangail District,Gopalpur,267817,Moderate ,15,3.8
+Dhaka Division,Tangail District,Kalihati,440553,Low ,14,4.8
+Dhaka Division,Tangail District,Madhupur,330527,Moderate ,17.3,3.3
+Dhaka Division,Tangail District,Mirzapur,462991,Very Low ,8.7,3
+Dhaka Division,Tangail District,Nagarpur,316524,Low ,13.5,5.4
+Dhaka Division,Tangail District,Sakhipur,315037,Moderate ,18.9,2.7
+Dhaka Division,Tangail District,Tangail Sadar,578331,Low ,14.9,4.4
+Khulna Division,Bagerhat District,Bagerhat Sadar,282229,Low ,14.3,2.3
+Khulna Division,Bagerhat District,Chitalmari,152338,Low ,14.9,6.4
+Khulna Division,Bagerhat District,Fakirhat,157097,Low ,11.4,2.8
+Khulna Division,Bagerhat District,Kachua,106532,Low ,14.7,5.4
+Khulna Division,Bagerhat District,Mollahat,141170,Moderate ,17.1,5.8
+Khulna Division,Bagerhat District,Mongla,153932,Very Low ,7.4,2.1
+Khulna Division,Bagerhat District,Morelganj,301874,Low ,11.2,3.4
+Khulna Division,Bagerhat District,Rampal,168597,Low ,12.6,5.3
+Khulna Division,Bagerhat District,Sharankhola,118821,High ,24.3,2.7
+Khulna Division,Chuadanga District,Alamdanga,365195,High ,24.8,3.8
+Khulna Division,Chuadanga District,Chuadanga Sadar,344072,Moderate ,15.5,2.7
+Khulna Division,Chuadanga District,Damurhuda,314172,High ,21.2,6.9
+Khulna Division,Chuadanga District,Jibannagar,195597,High ,22.8,4.5
+Khulna Division,Jashore District,Abhaynagar,283395,High ,27.2,3.4
+Khulna Division,Jashore District,Bagharpara,236314,High ,24.6,6.5
+Khulna Division,Jashore District,Chaugachha,246548,Low ,11.8,3.8
+Khulna Division,Jashore District,Jhikargachha,327869,High ,26.4,3
+Khulna Division,Jashore District,Keshabpur,277655,Very High ,33.4,4.6
+Khulna Division,Jashore District,Jashore Sadar,804026,Low ,13.2,2.9
+Khulna Division,Jashore District,Manirampur,445492,Moderate ,20.4,2.9
+Khulna Division,Jashore District,Sharsha,382940,Moderate ,15.5,3.1
+Khulna Division,Jhenaidah District,Harinakundu,216994,High ,21.9,7
+Khulna Division,Jhenaidah District,Jhenaidah Sadar,528242,High ,21.7,2.4
+Khulna Division,Jhenaidah District,Kaliganj,305392,Low ,14.9,3
+Khulna Division,Jhenaidah District,Kotchandpur,155335,Moderate ,16.1,4.7
+Khulna Division,Jhenaidah District,Maheshpur,367678,Moderate ,20.3,4.5
+Khulna Division,Jhenaidah District,Shailkupa,396074,High ,27.7,4.4
+Khulna Division,Khulna District,Batiaghata,226308,Very Low ,9.5,2.8
+Khulna Division,Khulna District,Dacope,158167,Low ,12.8,4.9
+Khulna Division,Khulna District,Daulatpur,97544,Very Low ,5.2,1.4
+Khulna Division,Khulna District,Dumuria,338760,Low ,9.9,2.8
+Khulna Division,Khulna District,Dighalia,161129,Very Low ,8.5,2.9
+Khulna Division,Khulna District,Khalishpur,150929,Very Low ,5.5,0.7
+Khulna Division,Khulna District,Khan Jahan Ali,6229,Very Low ,5.3,2.7
+Khulna Division,Khulna District,Khulna Sadar,231396,Very Low ,4.6,0.7
+Khulna Division,Khulna District,Koyra,219343,Low ,13.1,6.1
+Khulna Division,Khulna District,Paikgachha,284525,Moderate ,17,3.1
+Khulna Division,Khulna District,Phultala,144063,Moderate ,15.8,2.1
+Khulna Division,Khulna District,Rupsa,204055,Low ,11.8,4.4
+Khulna Division,Khulna District,Sonadanga,185025,Very Low ,3.7,0.7
+Khulna Division,Khulna District,Terokhada,128096,Low ,10.6,3.8
+Khulna Division,Kushtia District,Bheramara,222524,Moderate ,18.2,5.7
+Khulna Division,Kushtia District,Daulatpur,479263,High ,23.7,2.9
+Khulna Division,Kushtia District,Khoksa,142999,High ,21.6,7.1
+Khulna Division,Kushtia District,Kumarkhali,371800,High ,26.6,3.2
+Khulna Division,Kushtia District,Kushtia Sadar,543631,Low ,10.2,2.5
+Khulna Division,Kushtia District,Mirpur,359031,Low ,11.6,2.4
+Khulna Division,Magura District,Magura Sadar,417455,High ,21.3,3.9
+Khulna Division,Magura District,Mohammadpur,240505,High ,24.8,8.4
+Khulna Division,Magura District,Shalikha,176615,Moderate ,20.4,3.4
+Khulna Division,Magura District,Sreepur,182558,High ,26,7.6
+Khulna Division,Meherpur District,Gangni,320627,Low ,10.3,2.1
+Khulna Division,Meherpur District,Mujibnagar,104180,Very Low ,9.7,2.2
+Khulna Division,Meherpur District,Meherpur Sadar,274670,Very Low ,9.3,3.1
+Khulna Division,Narail District,Kalia,239764,Moderate ,20.4,2.7
+Khulna Division,Narail District,Lohagara,244063,Low ,10.5,2.9
+Khulna Division,Narail District,Narail Sadar,291049,Low ,14,6.1
+Khulna Division,Satkhira District,Ashashuni,279404,High ,22.4,4.1
+Khulna Division,Satkhira District,Debhata,131972,Very Low ,9.5,2.5
+Khulna Division,Satkhira District,Kalaroa,259539,Low ,12.7,5.9
+Khulna Division,Satkhira District,Kaliganj,302056,Moderate ,17.8,2.9
+Khulna Division,Satkhira District,Satkhira Sadar,511808,Low ,13,3
+Khulna Division,Satkhira District,Shyamnagar,361034,High ,25.4,3.5
+Khulna Division,Satkhira District,Tala,323504,Moderate ,17.2,3.6
+Mymensingh Division,Jamalpur District,Bakshiganj,238190,Very High ,29.5,6
+Mymensingh Division,Jamalpur District,Dewanganj,286519,High ,24.8,3.7
+Mymensingh Division,Jamalpur District,Islampur,317720,Low ,11.4,3.5
+Mymensingh Division,Jamalpur District,Jamalpur Sadar,656989,Low ,9.8,2.7
+Mymensingh Division,Jamalpur District,Madarganj,284981,Low ,12.4,3.6
+Mymensingh Division,Jamalpur District,Melandaha,350023,High ,26.8,4.1
+Mymensingh Division,Jamalpur District,Sarishabari,341113,High ,27.9,3.2
+Mymensingh Division,Mymensingh District,Bhaluka,556443,Very Low ,9,1.6
+Mymensingh Division,Mymensingh District,Dhobaura,214858,High ,28.1,4.5
+Mymensingh Division,Mymensingh District,Fulbaria,488207,Low ,9.9,4
+Mymensingh Division,Mymensingh District,Gafargaon,455687,Low ,10,2.5
+Mymensingh Division,Mymensingh District,Gouripur,350958,Very High ,52.9,3.7
+Mymensingh Division,Mymensingh District,Haluaghat,312807,Very High ,59.6,3.5
+Mymensingh Division,Mymensingh District,Ishwarganj,398271,High ,27.5,3.6
+Mymensingh Division,Mymensingh District,Mymensingh Sadar,935481,Very Low ,5.5,2.3
+Mymensingh Division,Mymensingh District,Muktagachha,446165,Very Low ,7.2,2.8
+Mymensingh Division,Mymensingh District,Nandail,416623,High ,25.4,2.8
+Mymensingh Division,Mymensingh District,Fulpur,345021,Very High ,32.8,4.1
+Mymensingh Division,Mymensingh District,Tarakanda,335104,High ,23.3,5
+Mymensingh Division,Mymensingh District,Trishal,481755,High ,22.2,3.1
+Mymensingh Division,Netrakona District,Atpara,142125,Very High ,34,12.5
+Mymensingh Division,Netrakona District,Barhatta,180071,Very High ,36.6,17.2
+Mymensingh Division,Netrakona District,Durgapur,237111,Very High ,47.6,4.7
+Mymensingh Division,Netrakona District,Khaliajuri,95533,Very High ,47.2,19.2
+Mymensingh Division,Netrakona District,Kalmakanda,268277,Very High ,32.6,3.2
+Mymensingh Division,Netrakona District,Kendua,312852,High ,23.5,5.8
+Mymensingh Division,Netrakona District,Madan,147946,Very High ,38.8,15.9
+Mymensingh Division,Netrakona District,Mohanganj,164212,Very High ,34.2,4.2
+Mymensingh Division,Netrakona District,Netrakona Sadar,407278,Very High ,45.8,3.9
+Mymensingh Division,Netrakona District,Purbadhala,325616,Low ,12.4,4.4
+Mymensingh Division,Sherpur District,Jhenaigati,175800,Low ,10.8,4.1
+Mymensingh Division,Sherpur District,Nakla,206798,High ,28,9.7
+Mymensingh Division,Sherpur District,Nalitabari,268656,High ,27.5,4.9
+,Sherpur District,Sherpur Sadar,553264,Moderate ,18.3,2.4
+,Sherpur District,Sreebardi,277918,Moderate ,15.6,4.2
+Rajshahi Division,Bogura District,Adamdighi,203653,Very Low ,9.4,4.8
+Rajshahi Division,Bogura District,Bogura Sadar,619584,Very Low ,6.9,1.1
+Rajshahi Division,Bogura District,Dhunat,305280,Low ,11.1,3.7
+Rajshahi Division,Bogura District,Dupchachia,191034,Very Low ,7,5.5
+Rajshahi Division,Bogura District,Gabtali,340500,Low ,14.5,3.5
+Rajshahi Division,Bogura District,Kahaloo,232354,Low ,10.2,2.4
+Rajshahi Division,Bogura District,Nandigram,197429,Low ,12.2,6.9
+Rajshahi Division,Bogura District,Sariakandi,274313,Very High ,30.1,4.2
+Rajshahi Division,Bogura District,Shajahanpur,321601,Very Low ,4.5,2
+Rajshahi Division,Bogura District,Sherpur,377535,Moderate ,17,4.3
+Rajshahi Division,Bogura District,Shibganj,397401,Low ,10,2.9
+Rajshahi Division,Bogura District,Sonatala,191233,Moderate ,15.6,9.7
+Rajshahi Division,Joypurhat District,Akkelpur,142453,Low ,11,3.3
+Rajshahi Division,Joypurhat District,Joypurhat Sadar,305288,Moderate ,15.7,5.6
+Rajshahi Division,Joypurhat District,Kalai,144692,High ,22.3,2.8
+Rajshahi Division,Joypurhat District,Khetlal,110148,Moderate ,15.3,7.5
+Rajshahi Division,Joypurhat District,Panchbibi,235529,Low ,12.5,3.5
+Rajshahi Division,Naogaon District,Atrai,199340,Moderate ,16.7,9.4
+Rajshahi Division,Naogaon District,Badalgachhi,205188,High ,25.7,3.6
+Rajshahi Division,Naogaon District,Dhamoirhat,191550,Moderate ,15.3,8.2
+Rajshahi Division,Naogaon District,Manda,377730,Low ,12.2,2.5
+Rajshahi Division,Naogaon District,Mahadebpur,303069,Moderate ,16.5,9.2
+Rajshahi Division,Naogaon District,Naogaon Sadar,431886,Very Low ,7.3,2.7
+Rajshahi Division,Naogaon District,Niamatpur,267524,Low ,12.7,4.1
+Rajshahi Division,Naogaon District,Patnitala,246650,Moderate ,17.9,3.5
+Rajshahi Division,Naogaon District,Porsha,141195,High ,23.2,8.9
+Rajshahi Division,Naogaon District,Raninagar,188634,Moderate ,16.6,8.5
+Rajshahi Division,Naogaon District,Sapahar,179151,Very High ,32.2,4.7
+Rajshahi Division,Natore District,Bagatipara,137075,High ,21.6,10.1
+Rajshahi Division,Natore District,Baraigram,305580,High ,23.7,4.6
+Rajshahi Division,Natore District,Gurudaspur,229210,Very High ,40.2,5.8
+Rajshahi Division,Natore District,Lalpur,303782,High ,23.1,11.4
+Rajshahi Division,Natore District,Naldanga,134133,Moderate ,16.5,4.8
+Rajshahi Division,Natore District,Natore Sadar,343908,High ,22.2,11.4
+Rajshahi Division,Natore District,Singra,374370,High ,22.4,4
+Rajshahi Division,Chapainawabganj District,Bholahat,112715,Very High ,31.9,5.5
+Rajshahi Division,Chapainawabganj District,Gomastapur,300418,Very High ,36.6,14.2
+Rajshahi Division,Chapainawabganj District,Nachole,165910,Moderate ,19.9,6
+Rajshahi Division,Chapainawabganj District,"Chapainawabganj
+Sadar",573178,High ,27.2,3.3
+Rajshahi Division,Chapainawabganj District,Shibganj,664254,Very High ,44.6,4.9
+Rajshahi Division,Pabna District,Atgharia,176663,Low ,11.6,6.3
+Rajshahi Division,Pabna District,Bera,298608,Moderate ,17.7,3.4
+Rajshahi Division,Pabna District,Bhangura,134879,Low ,13.9,7.3
+Rajshahi Division,Pabna District,Chatmohar,329279,Moderate ,15.3,3.2
+Rajshahi Division,Pabna District,Faridpur,139141,Low ,12.3,4
+Rajshahi Division,Pabna District,Ishwardi,378350,Low ,11.9,4.7
+Rajshahi Division,Pabna District,Pabna Sadar,685156,Very Low ,7.2,1.9
+Rajshahi Division,Pabna District,Santhia,407301,Low ,12.3,3.5
+Rajshahi Division,Pabna District,Sujanagar,302873,Low ,13.6,7.4
+Rajshahi Division,Rajshahi District,Bagha,194242,Low ,12.7,3.9
+Rajshahi Division,Rajshahi District,Bagmara,371140,Low ,13.5,3.4
+Rajshahi Division,Rajshahi District,Boalia,177894,Very Low ,5.3,1.2
+Rajshahi Division,Rajshahi District,Chandrima,58144,Low ,10.8,5.8
+Rajshahi Division,Rajshahi District,Charghat,222754,Low ,13.1,7.2
+Rajshahi Division,Rajshahi District,Durgapur,196570,Moderate ,15.4,2.9
+Rajshahi Division,Rajshahi District,Godagari,372994,High ,23.9,3.8
+Rajshahi Division,Rajshahi District,Kashiadanga,42410,Very Low ,9.7,2.4
+Rajshahi Division,Rajshahi District,Matihar,59116,Moderate ,15.7,2.7
+Rajshahi Division,Rajshahi District,Mohanpur,185120,Low ,14.4,8.9
+Rajshahi Division,Rajshahi District,Paba,361328,Moderate ,19.3,3.7
+Rajshahi Division,Rajshahi District,Puthia,222489,Low ,13.5,7.6
+Rajshahi Division,Rajshahi District,Rajpara,106376,Low ,12.7,1.8
+Rajshahi Division,Rajshahi District,Shah Makhdum,34954,Very Low ,9.5,5.2
+Rajshahi Division,Rajshahi District,Tanore,211001,Moderate ,19.1,4
+Rajshahi Division,Sirajganj District,Belkuchi,390526,High ,23.9,2.4
+Rajshahi Division,Sirajganj District,Chouhali,136727,Low ,14.5,6.4
+Rajshahi Division,Sirajganj District,Kamarkhanda,152314,Very Low ,8.3,5
+Rajshahi Division,Sirajganj District,Kazipur,278279,Moderate ,18.3,2.3
+Rajshahi Division,Sirajganj District,Rayganj,340876,Very Low ,3.6,2.8
+Rajshahi Division,Sirajganj District,Shahjadpur,592610,Moderate ,15.7,2
+Rajshahi Division,Sirajganj District,Sirajganj Sadar,608583,Very Low ,3.8,2.2
+Rajshahi Division,Sirajganj District,Tarash,209096,Very Low ,3.7,2.1
+Rajshahi Division,Sirajganj District,Ullapara,580839,Very Low ,7.9,2.1
+Rangpur Division,Dinajpur District,Birampur,180549,Very High ,36.5,3.9
+Rangpur Division,Dinajpur District,Birganj,350512,High ,23.2,4.2
+Rangpur Division,Dinajpur District,Birol,279378,High ,27.9,10.9
+Rangpur Division,Dinajpur District,Bochaganj,168980,Very High ,44.6,4.6
+Rangpur Division,Dinajpur District,Chirirbandar,318152,High ,21.2,5.2
+Rangpur Division,Dinajpur District,Fulbari,190033,High ,27,8.1
+Rangpur Division,Dinajpur District,Ghoraghat,128040,High ,28,9.2
+Rangpur Division,Dinajpur District,Hakimpur,93438,Moderate ,19.5,3.8
+Rangpur Division,Dinajpur District,Kaharole,171854,Very High ,29.5,10.6
+Rangpur Division,Dinajpur District,Khansama,195852,High ,27.4,4.5
+Rangpur Division,Dinajpur District,Dinajpur Sadar,516003,High ,24.5,2.9
+Rangpur Division,Dinajpur District,Nababganj,250292,High ,24.4,10.4
+Rangpur Division,Dinajpur District,Parbatipur,393568,Moderate ,16.7,5
+Rangpur Division,Gaibandha District,Fulchhari,165143,Moderate ,19.8,4.9
+Rangpur Division,Gaibandha District,Gaibandha Sadar,486698,Very High ,31,4.1
+Rangpur Division,Gaibandha District,Gobindaganj,537752,Moderate ,17.1,3
+Rangpur Division,Gaibandha District,Palashbari,264626,Very High ,41.7,3.8
+Rangpur Division,Gaibandha District,Sadullapur,310342,Moderate ,20.9,3.8
+Rangpur Division,Gaibandha District,Saghata,286413,High ,23,7.8
+Rangpur Division,Gaibandha District,Sundarganj,478385,High ,21.9,2.9
+Rangpur Division,Kurigram District,Bhurungamari,254439,Very High ,37.6,4.7
+Rangpur Division,Kurigram District,Rajibpur,78013,Very High ,38.5,8.6
+Rangpur Division,Kurigram District,Chilmari,130830,Very High ,31.5,10.8
+Rangpur Division,Kurigram District,Phulbari,184805,High ,24.5,5
+Rangpur Division,Kurigram District,Kurigram Sadar,351118,Very High ,39,4.6
+Rangpur Division,Kurigram District,Nageshwari,441325,Very High ,35.5,4.2
+Rangpur Division,Kurigram District,Rajarhat,201720,Very High ,28.6,13.6
+Rangpur Division,Kurigram District,Roumari,226313,Very High ,30.2,5.1
+Rangpur Division,Kurigram District,Ulipur,437277,Moderate ,20.5,5.2
+Rangpur Division,"Lalmonirhat
+District",Aditmari,248355,Moderate ,16.5,4.1
+Rangpur Division,"Lalmonirhat
+District",Hatibandha,261862,Very Low ,9.6,3.3
+Rangpur Division,"Lalmonirhat
+District",Kaliganj,274407,High ,26.5,3.5
+Rangpur Division,"Lalmonirhat
+District",Lalmonirhat Sadar,368234,Moderate ,21.1,7.2
+Rangpur Division,"Lalmonirhat
+District",Patgram,260597,High ,25.2,3.4
+Rangpur Division,Nilphamari District,Dimla,314675,Moderate ,20.9,3.8
+Rangpur Division,Nilphamari District,Domar,279296,Moderate ,18.4,4.7
+Rangpur Division,Nilphamari District,Jaldhaka,383369,Very High ,29.1,4
+Rangpur Division,Nilphamari District,Kishoreganj,265897,High ,25.9,7.7
+Rangpur Division,Nilphamari District,Nilphamari Sadar,515038,Moderate ,17.7,2.9
+Rangpur Division,Nilphamari District,Saidpur,306299,High ,22.9,5.1
+Rangpur Division,Panchagarh District,Atowari,139976,Very High ,29.4,12.5
+Rangpur Division,Panchagarh District,Boda,272127,Very High ,48.2,5.5
+Rangpur Division,Panchagarh District,Debiganj,263429,Very High ,30.3,5.3
+Rangpur Division,Panchagarh District,Panchagarh Sadar,328199,Very High ,31.6,10.8
+Rangpur Division,Panchagarh District,Tentulia,157044,Moderate ,19,4.5
+Rangpur Division,Rangpur District,Badarganj,310599,High ,21.5,4.8
+Rangpur Division,Rangpur District,Gangachara,283675,Moderate ,15.3,4.7
+Rangpur Division,Rangpur District,Hajirhat,76167,Very High ,38.2,7.3
+Rangpur Division,Rangpur District,Haragachh,61660,Very High ,42,8
+Rangpur Division,Rangpur District,Kaunia,236988,High ,24.7,6.6
+Rangpur Division,Rangpur District,Kotwali,310859,High ,22.4,4.5
+Rangpur Division,Rangpur District,Rangpur Sadar,176621,Moderate ,20.5,3.9
+Rangpur Division,Rangpur District,Mahiganj,54689,Very High ,29.9,7.3
+Rangpur Division,Rangpur District,Mithapukur,533435,Moderate ,20.3,4
+Rangpur Division,Rangpur District,Parshuram,68773,Very High ,30.6,7.9
+Rangpur Division,Rangpur District,Pirgachha,323670,Low ,14.1,3.6
+Rangpur Division,Rangpur District,Pirganj,407669,High ,22.3,4.4
+Rangpur Division,Rangpur District,Tajhat,79421,Very High ,31.6,7.5
+Rangpur Division,Rangpur District,Taraganj,158212,High ,22.5,7.7
+Rangpur Division,Thakurgaon District,Baliadangi,205904,Very High ,30.9,5.2
+Rangpur Division,Thakurgaon District,Haripur,158103,High ,23.5,9.9
+Rangpur Division,Thakurgaon District,Pirganj,260952,High ,24,3.6
+Rangpur Division,Thakurgaon District,Ranishankail,239193,Moderate ,17,5.1
+Rangpur Division,Thakurgaon District,Thakurgaon Sadar,641387,High ,22.8,4.1
+Sylhet Division,Habiganj District,Ajmiriganj,125661,Low ,12.4,6.4
+Sylhet Division,Habiganj District,Bahubal,216474,Moderate ,20.3,1.7
+Sylhet Division,Habiganj District,Baniachong,353339,Low ,11.7,2.7
+Sylhet Division,Habiganj District,Chunarughat,338982,Low ,11.1,1.6
+Sylhet Division,Habiganj District,Habiganj Sadar,296592,Very Low ,7.4,1.3
+Sylhet Division,Habiganj District,Lakhai,157465,Low ,10.2,2.3
+Sylhet Division,Habiganj District,Madhabpur,376071,Very Low ,9.1,1.9
+Sylhet Division,Habiganj District,Nabiganj,363472,Low ,10,1.7
+Sylhet Division,Habiganj District,Shayestaganj,93042,Very Low ,6.2,3.3
+Sylhet Division,"Moulvibazar
+District",Baralekha,278828,Low ,12.1,2.7
+Sylhet Division,"Moulvibazar
+District",Juri,161181,High ,25.8,6.7
+Sylhet Division,"Moulvibazar
+District",Kamalganj,286682,High ,22,2.1
+Sylhet Division,"Moulvibazar
+District",Kulaura,394156,High ,26.5,2.5
+Sylhet Division,"Moulvibazar
+District",Moulvibazar Sadar,365077,Low ,11,2.4
+Sylhet Division,"Moulvibazar
+District",Rajnagar,248235,Low ,12.8,3.1
+Sylhet Division,"Moulvibazar
+District",Sreemangal,354710,Very High ,31.3,2.4
+Sylhet Division,Sunamganj District,Bishwambharpur,189574,Very High ,46.7,5.2
+Sylhet Division,Sunamganj District,Chhatak,442203,Very High ,29.3,2.4
+Sylhet Division,Sunamganj District,Derai,252129,Moderate ,19.1,4.4
+Sylhet Division,Sunamganj District,Dharmapasha,132247,High ,25.7,10.7
+Sylhet Division,Sunamganj District,Dowarabazar,258969,High ,22.9,3.4
+Sylhet Division,Sunamganj District,Jagannathpur,261626,Very High ,28.9,4
+Sylhet Division,Sunamganj District,Jamalganj,185134,Very High ,30.2,4.4
+Sylhet Division,Sunamganj District,Madhyanagar,95248,High ,25.5,9.5
+Sylhet Division,Sunamganj District,Shalla,116907,Very High ,34.8,4.9
+Sylhet Division,Sunamganj District,Shantiganj,203664,High ,28.2,11.7
+Sylhet Division,Sunamganj District,Sunamganj Sadar,313964,Moderate ,20,3.9
+Sylhet Division,Sunamganj District,Tahirpur,223551,High ,22.7,4.6
+Sylhet Division,Sylhet District,Airport,87535,Very Low ,9.2,2.7
+Sylhet Division,Sylhet District,Balaganj,122741,Moderate ,17.1,7.8
+Sylhet Division,Sylhet District,Beanibazar,254846,Moderate ,20,2.7
+Sylhet Division,Sylhet District,Bishwanath,234310,Moderate ,19.8,3.5
+Sylhet Division,Sylhet District,Companiganj,191183,Moderate ,19.5,3.5
+Sylhet Division,Sylhet District,Dakkhin Surma,294637,Very Low ,9.1,2.4
+Sylhet Division,Sylhet District,Fenchuganj,112362,Moderate ,16.9,3.2
+Sylhet Division,Sylhet District,Golapganj,327314,High ,22.2,2.3
+Sylhet Division,Sylhet District,Gowainghat,353502,Moderate ,19.1,3.6
+Sylhet Division,Sylhet District,Jalalabad,30081,Very Low ,7.9,2.6
+Sylhet Division,Sylhet District,Jaintapur,197738,Low ,12.3,4
+Sylhet Division,Sylhet District,Kotwali,238680,Very Low ,9.3,1.6
+Sylhet Division,Sylhet District,Moglabazar,19921,Moderate ,15.9,6.8
+Sylhet Division,Sylhet District,Kanaighat,315777,Low ,9.9,2.9
+Sylhet Division,Sylhet District,Osmaninagar,212394,Moderate ,20.2,3.1
+Sylhet Division,Sylhet District,Sylhet Sadar,418670,Moderate ,20.1,2
+Sylhet Division,Sylhet District,Shahparan,76022,Very Low ,8.3,1.9
+Sylhet Division,Sylhet District,Zakiganj,263617,Low ,13.5,3.5
